@@ -416,7 +416,7 @@ class _PostsScreenState extends State<PostsScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'MANHWA THREADS',
+          'Manwha Threads',
           style: TextStyle(
             color: kPrimary,
             fontWeight: FontWeight.w900,
